@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOut", "WindowsFormsApp1\LightsOut.csproj", "{1C807A66-1321-4DB8-8CC0-BB6F725EA9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOutTests", "UnitTestProject1\LightsOutTests.csproj", "{44166BA1-1E8D-4FA9-B2CA-9984BE2CDC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C807A66-1321-4DB8-8CC0-BB6F725EA9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C807A66-1321-4DB8-8CC0-BB6F725EA9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C807A66-1321-4DB8-8CC0-BB6F725EA9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C807A66-1321-4DB8-8CC0-BB6F725EA9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44166BA1-1E8D-4FA9-B2CA-9984BE2CDC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44166BA1-1E8D-4FA9-B2CA-9984BE2CDC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44166BA1-1E8D-4FA9-B2CA-9984BE2CDC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44166BA1-1E8D-4FA9-B2CA-9984BE2CDC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAEFD13-AAEC-4C77-B0A7-DBEFC16D5803}
+	EndGlobalSection
+EndGlobal
